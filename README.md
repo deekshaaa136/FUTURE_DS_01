@@ -23,6 +23,20 @@ Analysis & Visualizations
 - Profit by Category
 - Sales by Sub-Category
 - Profit by Sub-Category
+- Business Insights
+
+1. Technology is the strongest category — it generated the highest sales and profit among the three main categories.
+2. Office Supplies also contributes strongly to overall profit, making it an important category to maintain.
+3. Sub-category performance varies significantly, so the business should identify high-performing products and focus inventory and marketing on them.
+4. Profitability should be considered along with sales, because high sales do not always mean high profit.
+
+Business Recommendations
+
+- Focus marketing and inventory investment on high-performing Technology products.
+- Identify low-profit sub-categories and review their pricing, discounts, and costs.
+- Promote products with strong sales and healthy profit margins.
+- Monitor sales trends regularly to improve inventory planning and promotional decisions.
+- Use the dashboard KPIs to track sales and profitability performance over time.
 
 Dataset
 
